@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dataspin-research/dataspin-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**dataspin-research/dataspin-research** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Data  Analytics
+- 🌱 Data Infrastructure
+- 👯 Research Services
+- 🤔 Training  & Capacity Building
+- 💬 Customised Solutions
+- 📫 info@dataspinres.co.uk
+- ⚡ We are happy to turn your data to insights
+
+
+
+
